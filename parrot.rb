@@ -1,3 +1,3 @@
 def #parrot (name = "Corey")
-  puts "#{name}"
+  puts "Hello #{name}"
   end
