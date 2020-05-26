@@ -1,4 +1,4 @@
 def parrot (sound)
   puts "#{sound}"
-  sound = Squa
+  sound = Squawk!
   end
