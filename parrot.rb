@@ -1,3 +1,3 @@
-def #parrot (name = "Squawk!", *p)
+def #parrot (name = "Corey")
   puts "#{name}"
   end
