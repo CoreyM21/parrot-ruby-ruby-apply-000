@@ -1,3 +1,3 @@
-def #parrot (sound)
-  puts "The parrot goes #{sound}"
+def #parrot (name)
+  puts "The parrot goes #{name}"
   end
