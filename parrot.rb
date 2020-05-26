@@ -1,3 +1,3 @@
 def #parrot (name = "Squawk!", *p)
-  puts "The parrot goes #{name}"
+  puts "#{name}"
   end
